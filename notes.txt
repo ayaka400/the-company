@@ -1,0 +1,6 @@
+Folders
+
+actions - directory/folder for action related
+assets - directory/folder for css and images
+classes - directory/folder for class files (CRUD:「作成（Create）」「読み出し（Read）」「更新（Update）」「削除（Delete）」)
+views - directory/folder for html'S
