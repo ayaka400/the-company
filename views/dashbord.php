@@ -68,7 +68,7 @@
                               <?php
                                   if ($user['photo']) {
                               ?>
-                                  <img src="../assets/images/<?= $user['photo']?>" alt="<?= $user['photo'] ?>" class="d-block mx-auto dashboard-photo" style="width: 3.5em; height: 3.5em; object-fit: cover;">
+                                  <img src="../assets/images/<?= $user['photo']?>" alt="<?= $user['photo'] ?>" class="d-block mx-auto dashboard-photo" >
                               <?php
                                   }else{
                               ?>
